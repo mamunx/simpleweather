@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Andoid_Studio_SDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\USER\Dropbox\SimpleWeather\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_e006c9a7a81936587f64e076bbc56808725c2a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\eae7b35c06ca51f42b27848772281f57ccd54a7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\USER\Dropbox\SimpleWeather\app\build\intermediates\pre-dexed\debug\classes_9793d08b0fce7c348a552f53f80940a7d9cd309e.jar" />
+    </item>
+
+</items>
